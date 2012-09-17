@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1345222684,
+	"auto_upgrade_last_run": 1347893446,
 	"installed_packages":
 	[
 		"Jasmine",
@@ -7,6 +7,7 @@
 		"Markdown Todo",
 		"MarkdownBuild",
 		"Nettuts+ Fetch",
+		"OpenGL Shading Language (GLSL)",
 		"Package Control",
 		"Sass",
 		"SmartMarkdown",
