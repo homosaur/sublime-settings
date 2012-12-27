@@ -5,9 +5,5 @@
         { "key": "setting.command_mode", "operand": false },
         { "key": "setting.is_widget", "operand": false }
     ]
-},
-{ "keys": ["right"], "command": "null"},
-{ "keys": ["left"], "command": "null"},
-{ "keys": ["up"], "command": "null"},
-{ "keys": ["down"], "command": "null"}
+}
 ]
