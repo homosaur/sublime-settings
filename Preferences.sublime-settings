@@ -23,8 +23,8 @@
 		".sass-cache",
 		".git"
 	],
-	"font_face": "Inconsolata",
-	"font_size": 14.0,
+	"font_face": "Source Code Pro",
+	"font_size": 13.0,
 	"highlight line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -45,10 +45,10 @@
 	],
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": true,
-	"spell_check": true,
+	"spell_check": false,
 	"dictionary": "Packages/Language - English/en_US.dic"
 }
