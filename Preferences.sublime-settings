@@ -1,6 +1,6 @@
 {
-	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"caret_style": "block",
+	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Monokai Aqua.tmTheme",
 	"command": "exit_insert_mode",
 	"context":
 	[
@@ -13,6 +13,7 @@
 			"operand": false
 		}
 	],
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"drag_text": true,
 	"draw_minimap_border": true,
 	"draw_white_space": "all",
@@ -29,6 +30,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Emmet"
 	],
 	"indent_guide_options":
 	[
@@ -43,12 +45,11 @@
 	[
 		80
 	],
+	"spell_check": false,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_start_in_command_mode": true,
-	"word_wrap": true,
-	"spell_check": false,
-	"dictionary": "Packages/Language - English/en_US.dic"
+	"word_wrap": true
 }
